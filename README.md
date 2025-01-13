@@ -1,4 +1,4 @@
-# Loksabha_Elections_Result_Analysis_2024(Interactive dashboard creayion using Power BI)
+# Loksabha_Elections_Result_Analysis_2024(Interactive dashboard creation using Power BI)
 # Project Objective
 ## The Party members of Election Commission wants to create an lok-sabha elections result of 2024.So that the Party members will analyse and improve their statergy for the upcoming elections in next 5 years.
 # Insights
